@@ -1,0 +1,11 @@
+#Format managing
+json
+sqlite3
+
+
+#Sci. comp.libraries
+numpy
+scipy
+pandas
+seaborn
+rpy2
