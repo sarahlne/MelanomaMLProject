@@ -48,7 +48,7 @@ from sksurv.metrics import concordance_index_censored
 from sksurv.svm import FastSurvivalSVM
 from sksurv.ensemble import RandomSurvivalForest, GradientBoostingSurvivalAnalysis, ExtraSurvivalTrees
 from sksurv.linear_model import CoxnetSurvivalAnalysis
-from coxnet_model import Coxnet
+#from coxnet_model import Coxnet
 from math import ceil, floor
 from sksurv.util import Surv
 from sklearn.model_selection import GridSearchCV, KFold
